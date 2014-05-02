@@ -1,7 +1,7 @@
-Spring_2.5_Aspect_Oriented_Programming_book
+Spring 2.5 Aspect Oriented Programming
 ===========================================
 
-Examples of Spring 2.5 Aspect Oriented Programming book
+Examples of Spring 2.5 Aspect Oriented Programming book (2009)
 
 http://www.packtpub.com/aspect-oriented-programming-with-spring-2-5/book
 
